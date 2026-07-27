@@ -1,20 +1,27 @@
-# Healthcare-Market-Intelligence
+# Healthcare Market Intelligence
 Business Intelligence solution for healthcare market analysis using Python, PostgreSQL and Power BI.
 
-The objective is to identify the most attractive countries and healthcare products using historical data, predictive analytics and interactive dashboards.
+# PROJECT OVERVIEW
+The objective of this project is to identify the countries and healthcare products with the highest commercial potential by combining historical data analysis, predictive analytics and interactive dashboards.
 
-Technologies:
+## TECHNOLOGIES
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
+- Statsmodels
 - PostgreSQL
+- SQLAlchemy
+- SQL
 - Power BI
+- DAX
 
-ETL Architecture:
+## ARCHITECTURE
 Data Sources --> Python ETL Pipeline --> PostgreSQL Database --> Power BI Dashboard --> Market Insights
 
-Results:
+## MAIN RESULTS
 - Market Attractiveness Index
-- Country ranking
-- Sales prediction 2025-2027
+- Country Ranking
+- Product Ranking
+- Sales Forecast (2025–2027)
+- Interactive Dashboard
